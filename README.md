@@ -4,6 +4,7 @@
 
 ### Connect with me:
 
+[<img align="left" alt="NikitaKudenikov | telegram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
 [<img align="left" alt="NikitaKudenikov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="NikitaKudenikov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
@@ -30,3 +31,4 @@
 
 [instagram]: https://www.instagram.com/kudenikovns
 [vk]: https://vk.com/id10591245
+[telegram]: https://t.me/kudnik
