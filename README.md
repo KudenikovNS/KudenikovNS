@@ -1,25 +1,25 @@
-### Hi there 👋, I'm Nikita
+### Привет 👋, Меня зовут Никита
 
-## I'm a Front-end developer
+## Я Front-end developer
 
-- 💪 I like to write code
-- 🎉 I like to watch movies and travel
+- 💪 Мне нравится писать код
+- 🎉 Я люблю смотреть фильмы и путешествовать
 
-### Summary
+### Резюме
 
 [<img align="left" alt="NikitaKudenikov | telegram" width="45" src="https://img.icons8.com/nolan/344/open-resume.png" />][summary]
 
 <br />
 
-### Connect with me:
+### Мои контакты:
 
-[<img align="left" alt="NikitaKudenikov | telegram" width="22px" src="https://img.icons8.com/ios-filled/344/telegram-app.png" />][telegram]
-[<img align="left" alt="NikitaKudenikov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="NikitaKudenikov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="NikitaKudenikov | telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
+[<img align="left" alt="NikitaKudenikov | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580635-yumminkysocialmedia26_83102.png" />][instagram]
+[<img align="left" alt="NikitaKudenikov | VK" width="22px" src="https://cdn.icon-icons.com/icons2/1121/PNG/512/1486147202-social-media-circled-network10_79475.png" />][vk]
 
 <br />
 
-### Languages and Tools:
+### Технологии:
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
