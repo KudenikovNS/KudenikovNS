@@ -37,3 +37,7 @@
 [vk]: https://vk.com/id10591245
 [telegram]: https://t.me/kudnik
 [summary]: https://batumi.headhunter.ge/resume/4acc3de1ff09e99e730039ed1f37504b494467
+
+https://www.codewars.com/users/KudenikovNS/badges/large
+
+![codewars](https://www.codewars.com/users/KudenikovNS/badges/large)
